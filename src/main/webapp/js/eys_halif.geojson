@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "clinic": "Eu Yan Sang Premier TCM Centre @ Camden",
+        "address": "1 Orchard Boulevard #11-02 Camden Medical Centre",
+        "postalCode": 248649,
+        "phoneFormatted": "(65) 6732 0922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82385849952696,
+          1.3031086299630843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "clinic": "Eu Yan Sang Premier TCM Centre @ Paragon",
+        "address": "290 Orchard Road #13-08/09 Paragon (Tower 1 – Lobby E or Lobby F)",
+        "postalCode": 238859,
+        "phoneFormatted": "(65) 6735 8006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83559584617615,
+          1.3038004608241642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "clinic": "Eu Yan Sang TCM Clinic @ Ang Mo Kio",
+        "address": "Blk 720 Ang Mo Kio Ave 6 #01-4106 Ang Mo Kio Town Centre",
+        "postalCode": 560720,
+        "phoneFormatted": "(65) 6451 4977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84706228971481,
+          1.3718188252097503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "clinic": "Eu Yan Sang TCM Clinic @ Bedok",
+        "address": "315 New Upper Changi Road #01-01 Bedok MRT Station",
+        "postalCode": 467347,
+        "phoneFormatted": "(65) 6242 2205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9301785826683,
+          1.3240029103169157
+        ]
+      }
+    }
+  ]
+}
